@@ -76,7 +76,3 @@ JENISH RUDANI
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Copyright
-
-(c) 2024 RudaniLLC
